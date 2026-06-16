@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="La Voix Intérieure — Fiche d'œuvre" />
+  <title>Œuvre — La Voix Intérieure</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <div class="oeuvre-page">
+
+    <!-- BACK -->
+    <a class="back-link" href="index.html">
+      ← Retour à la galerie
+    </a>
+
+    <!-- LOADING -->
+    <p class="loading" id="loadingMsg">Chargement…</p>
+
+    <!-- CONTENT (hidden until loaded) -->
+    <div id="oeuvreContent" style="display:none;">
+
+      <!-- HEADER OEUVRE -->
+      <header class="oeuvre-header">
+        <p class="oeuvre-number" id="oeuvreNumber"></p>
+        <h1 class="oeuvre-title" id="oeuvreTitle"></h1>
+        <div id="oeuvreBADGES"></div>
+      </header>
+
+      <!-- DETAILS -->
+      <section class="oeuvre-details" aria-label="Informations sur l'œuvre">
+        <div class="detail-row">
+          <span class="detail-label">Collection</span>
+          <span class="detail-value" id="detailCollection"></span>
+        </div>
+        <div class="detail-row">
+          <span class="detail-label">Dimensions</span>
+          <span class="detail-value" id="detailSize"></span>
+        </div>
+        <div class="detail-row">
+          <span class="detail-label">Date</span>
+          <span class="detail-value" id="detailDate"></span>
+        </div>
+        <div class="detail-row">
+          <span class="detail-label">Prix</span>
+          <span class="detail-value price" id="detailPrice"></span>
+        </div>
+      </section>
+
+      <!-- AUDIO PLAYER -->
+      <section class="audio-section" aria-label="Lecteur audio">
+        <p class="audio-label">🎙 La voix de l'artiste</p>
+
+        <div class="player-core" id="customPlayer">
+          <div id="playerWrapper">
+            <!-- Pulse + Play button -->
+            <div class="play-btn-wrapper">
+              <div class="pulse-ring"></div>
+              <button class="play-btn" id="playBtn" aria-label="Lecture / Pause">
+                <!-- Play icon -->
+                <svg class="play-icon-play" viewBox="0 0 24 24">
+                  <path d="M8 5v14l11-7z"/>
+                </svg>
+                <!-- Pause icon -->
+                <svg class="play-icon-pause" viewBox="0 0 24 24">
+                  <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
+                </svg>
+              </button>
+            </div>
+
+            <!-- Progress -->
+            <div class="progress-container">
+              <div class="progress-track" id="progressTrack" role="progressbar" aria-label="Progression audio">
+                <div class="progress-fill" id="progressFill"></div>
+              </div>
+              <div class="time-row">
+                <span id="currentTime">0:00</span>
+                <span id="durationEl">--:--</span>
+              </div>
+            </div>
+          </div>
+
+          <p class="audio-hint" id="audioHint">
+            Appuyez sur ▶ pour écouter la voix de l'artiste
+          </p>
+        </div>
+
+        <!-- Fallback natif (affiché si erreur JS) -->
+        <div id="audioFallback"></div>
+      </section>
+
+      <!-- NAVIGATION -->
+      <nav class="oeuvre-nav" aria-label="Navigation entre les œuvres">
+        <a class="nav-btn" id="prevBtn" href="#">
+          <span class="nav-btn-direction">← Précédente</span>
+          <span class="nav-btn-title"></span>
+        </a>
+        <a class="nav-btn" id="nextBtn" href="#" style="text-align:right;">
+          <span class="nav-btn-direction">Suivante →</span>
+          <span class="nav-btn-title"></span>
+        </a>
+      </nav>
+
+    </div><!-- /oeuvreContent -->
+  </div><!-- /oeuvre-page -->
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    La Voix Intérieure &nbsp;·&nbsp; Exposition artistique
+  </footer>
+
+  <script src="js/oeuvre.js"></script>
+</body>
+</html>
