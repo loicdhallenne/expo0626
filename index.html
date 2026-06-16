@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="La Voix Intérieure — Exposition artistique. 50 œuvres, 50 récits audio." />
+  <title>La Voix Intérieure — Exposition</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <style>
+    /* Accents page accueil */
+    .hero-accent {
+      display: flex;
+      justify-content: center;
+      gap: 8px;
+      margin-top: 20px;
+    }
+    .hero-dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="site-header">
+    <h1 class="site-title">LA VOIX INTÉRIEURE</h1>
+    <p class="site-subtitle">50 œuvres &nbsp;·&nbsp; 50 récits audio</p>
+    <div class="hero-accent">
+      <span class="hero-dot" style="background:#FF8617"></span>
+      <span class="hero-dot" style="background:#F6BE14"></span>
+      <span class="hero-dot" style="background:#86BD92"></span>
+      <span class="hero-dot" style="background:#FFAAAA"></span>
+    </div>
+
+    <!-- SEARCH -->
+    <div class="search-container">
+      <span class="search-icon">🔍</span>
+      <input
+        type="search"
+        id="searchInput"
+        class="search-input"
+        placeholder="Rechercher une œuvre ou une collection…"
+        aria-label="Rechercher une œuvre"
+        autocomplete="off"
+      />
+    </div>
+  </header>
+
+  <!-- GALLERY -->
+  <main class="gallery-section">
+    <p class="results-info" id="resultsInfo">Chargement…</p>
+    <div class="gallery-grid" id="galleryGrid" aria-label="Galerie des œuvres">
+      <p class="loading">Chargement des œuvres…</p>
+    </div>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    La Voix Intérieure &nbsp;·&nbsp; Scannez le QR Code pour entendre l'artiste
+  </footer>
+
+  <script src="js/gallery.js"></script>
+</body>
+</html>

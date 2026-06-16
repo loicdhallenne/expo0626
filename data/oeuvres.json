@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "title": "Parfum Diamant",
+    "size": "17X35",
+    "collection": "Essential",
+    "price": 40,
+    "audio": "https://loicdhallenne.github.io/expo0626/Parfum%20Diamant%20.m4a",
+    "comment": "New",
+    "date": "04/2024"
+  },
+  {
+    "id": 2,
+    "title": "Les Iles Goroje",
+    "size": "50X70",
+    "collection": "Nature",
+    "price": 210,
+    "audio": "https://loicdhallenne.github.io/expo0626/Les%20iles%20Goroje.m4a",
+    "comment": "",
+    "date": "03/2025"
+  },
+  {
+    "id": 3,
+    "title": "VHS Appolo",
+    "size": "50X50",
+    "collection": "Abstract",
+    "price": 170,
+    "audio": "https://loicdhallenne.github.io/expo0626/VHS%20Appollo.m4a",
+    "comment": "",
+    "date": "08/2024"
+  },
+  {
+    "id": 4,
+    "title": "My love in Kyoto",
+    "size": "79X35",
+    "collection": "Abstract",
+    "price": 100,
+    "audio": "https://loicdhallenne.github.io/expo0626/My%20love%20in%20Kyoto.m4a",
+    "comment": "",
+    "date": "05/2025"
+  },
+  {
+    "id": 5,
+    "title": "Hong Kong Bay",
+    "size": "50X60",
+    "collection": "Night",
+    "price": 120,
+    "audio": "https://loicdhallenne.github.io/expo0626/Honk%20Kong%20bay.m4a",
+    "comment": "",
+    "date": "05/2025"
+  },
+  {
+    "id": 6,
+    "title": "Jaguar",
+    "size": "89X116",
+    "collection": "Nature",
+    "price": 300,
+    "audio": "https://loicdhallenne.github.io/expo0626/le%20jaguar.m4a",
+    "comment": "",
+    "date": "05/2026"
+  },
+  {
+    "id": 7,
+    "title": "Le pouvoir trompeur de l'argent",
+    "size": "40X50",
+    "collection": "Essential",
+    "price": 160,
+    "audio": "https://loicdhallenne.github.io/expo0626/Le%20pouvoir%20trompeur%20de%20l'argent%20.m4a",
+    "comment": "",
+    "date": "03/2024"
+  },
+  {
+    "id": 8,
+    "title": "Tianamen",
+    "size": "30X30",
+    "collection": "Triangle",
+    "price": 170,
+    "audio": "https://loicdhallenne.github.io/expo0626/Tiananmen%20.m4a",
+    "comment": "",
+    "date": "05/2020"
+  },
+  {
+    "id": 9,
+    "title": "Interstates",
+    "size": "15X150",
+    "collection": "Abstract",
+    "price": 100,
+    "audio": "https://loicdhallenne.github.io/expo0626/Interstates.m4a",
+    "comment": "New",
+    "date": "05/2026"
+  },
+  {
+    "id": 10,
+    "title": "Post-apocalyptic recovery",
+    "size": "40X40",
+    "collection": "Sky Serie",
+    "price": 70,
+    "audio": "https://loicdhallenne.github.io/expo0626/Post%20apocalyptic%20recovery%20.m4a",
+    "comment": "",
+    "date": "03/2025"
+  },
+  {
+    "id": 11,
+    "title": "Sunrise",
+    "size": "24X18",
+    "collection": "Abstract",
+    "price": 110,
+    "audio": "https://loicdhallenne.github.io/expo0626/Sunrise%20.m4a",
+    "comment": "",
+    "date": "09/2024"
+  },
+  {
+    "id": 12,
+    "title": "Torpeur Estivale",
+    "size": "38X55",
+    "collection": "Jungle",
+    "price": 70,
+    "audio": "https://loicdhallenne.github.io/expo0626/Torpeur%20estivale.m4a",
+    "comment": "New",
+    "date": "04/2026"
+  },
+  {
+    "id": 13,
+    "title": "Le Havre vu de Honfleur",
+    "size": "60X40",
+    "collection": "Abstract",
+    "price": 115,
+    "audio": "https://loicdhallenne.github.io/expo0626/le%20havre%20vu%20de%20Honfleur.m4a",
+    "comment": "New",
+    "date": "04/2026"
+  },
+  {
+    "id": 14,
+    "title": "A cotton candy Sky",
+    "size": "20X44",
+    "collection": "Sky Serie",
+    "price": 50,
+    "audio": "https://loicdhallenne.github.io/expo0626/A%20cotton%20candy%20sky%20.m4a",
+    "comment": "",
+    "date": "02/2021"
+  },
+  {
+    "id": 15,
+    "title": "A dream Koi",
+    "size": "50X70",
+    "collection": "Nature",
+    "price": 150,
+    "audio": "https://loicdhallenne.github.io/expo0626/A%20dream%20Koi.m4a",
+    "comment": "",
+    "date": "09/2024"
+  },
+  {
+    "id": 16,
+    "title": "Arakis",
+    "size": "50X50",
+    "collection": "Essential",
+    "price": 100,
+    "audio": "https://loicdhallenne.github.io/expo0626/Arrakis.m4a",
+    "comment": "",
+    "date": "04/2022"
+  },
+  {
+    "id": 17,
+    "title": "Banquise",
+    "size": "30X46",
+    "collection": "Abstract",
+    "price": 70,
+    "audio": "https://loicdhallenne.github.io/expo0626/Banquise.m4a",
+    "comment": "",
+    "date": "04/2025"
+  },
+  {
+    "id": 18,
+    "title": "California Dreamin'",
+    "size": "42X26",
+    "collection": "Abstract",
+    "price": 70,
+    "audio": "https://loicdhallenne.github.io/expo0626/California%20Dreamin.m4a",
+    "comment": "",
+    "date": "04/2025"
+  },
+  {
+    "id": 19,
+    "title": "Contraste",
+    "size": "9X11X51",
+    "collection": "Sculpture",
+    "price": 60,
+    "audio": "https://loicdhallenne.github.io/expo0626/Contraste.m4a",
+    "comment": "",
+    "date": "11/2024"
+  },
+  {
+    "id": 20,
+    "title": "Crépuscule patchwork",
+    "size": "22X33",
+    "collection": "Sky Serie",
+    "price": 80,
+    "audio": "https://loicdhallenne.github.io/expo0626/Crepuscule%20patchwork.m4a",
+    "comment": "",
+    "date": "03/2024"
+  },
+  {
+    "id": 21,
+    "title": "Eminence Found",
+    "size": "50X50",
+    "collection": "Essential",
+    "price": 0,
+    "audio": "https://loicdhallenne.github.io/expo0626/Eminence%20Found.m4a",
+    "comment": "Collection privée",
+    "date": "10/2024"
+  },
+  {
+    "id": 22,
+    "title": "Feelin' very good",
+    "size": "70X70",
+    "collection": "Sky Serie",
+    "price": 150,
+    "audio": "https://loicdhallenne.github.io/expo0626/Feeling%20very%20good.m4a",
+    "comment": "",
+    "date": "06/2025"
+  },
+  {
+    "id": 23,
+    "title": "Focus #2",
+    "size": "18X24",
+    "collection": "Jungle",
+    "price": 85,
+    "audio": "https://loicdhallenne.github.io/expo0626/Focus2.m4a",
+    "comment": "",
+    "date": "10/2024"
+  },
+  {
+    "id": 24,
+    "title": "Fusion",
+    "size": "46X33",
+    "collection": "Abstract",
+    "price": 100,
+    "audio": "https://loicdhallenne.github.io/expo0626/Fusion.m4a",
+    "comment": "",
+    "date": "04/2025"
+  },
+  {
+    "id": 25,
+    "title": "Hibicus",
+    "size": "50X70",
+    "collection": "Essential",
+    "price": 60,
+    "audio": "https://loicdhallenne.github.io/expo0626/Hibiscus.m4a",
+    "comment": "",
+    "date": "02/2023"
+  },
+  {
+    "id": 26,
+    "title": "Nuances",
+    "size": "30X30X139",
+    "collection": "Sculpture",
+    "price": 100,
+    "audio": "https://loicdhallenne.github.io/expo0626/Nuances.m4a",
+    "comment": "",
+    "date": "11/2024"
+  },
+  {
+    "id": 27,
+    "title": "La Pieuvre",
+    "size": "21X75",
+    "collection": "Essential",
+    "price": 77,
+    "audio": "https://loicdhallenne.github.io/expo0626/La-pieuvre.m4a",
+    "comment": "New",
+    "date": "05/2026"
+  },
+  {
+    "id": 28,
+    "title": "Le Toucan",
+    "size": "37X53",
+    "collection": "Nature",
+    "price": 113,
+    "audio": "https://loicdhallenne.github.io/expo0626/Le%20toucan.m4a",
+    "comment": "",
+    "date": "02/2024"
+  },
+  {
+    "id": 29,
+    "title": "Mondrisplash",
+    "size": "30X170",
+    "collection": "Abstract",
+    "price": 153,
+    "audio": "https://loicdhallenne.github.io/expo0626/Mondrisplash.m4a",
+    "comment": "New",
+    "date": "05/2026"
+  },
+  {
+    "id": 30,
+    "title": "Osaka",
+    "size": "20X50",
+    "collection": "Sculpture",
+    "price": 60,
+    "audio": "https://loicdhallenne.github.io/expo0626/Osaka.m4a",
+    "comment": "",
+    "date": "06/2025"
+  },
+  {
+    "id": 31,
+    "title": "Une histoire de l'amérique du Nord",
+    "size": "26X230",
+    "collection": "Abstract",
+    "price": 196,
+    "audio": "https://loicdhallenne.github.io/expo0626/Une%20histoire%20de%20l'amerique%20du%20nord.m4a",
+    "comment": "New",
+    "date": "06/2026"
+  },
+  {
+    "id": 32,
+    "title": "Verdun 1916",
+    "size": "60X20",
+    "collection": "Abstract",
+    "price": 70,
+    "audio": "https://loicdhallenne.github.io/expo0626/Verdun%201916.m4a",
+    "comment": "",
+    "date": "03/2025"
+  },
+  {
+    "id": 33,
+    "title": "Forêt urbaine",
+    "size": "62X50",
+    "collection": "Abstract",
+    "price": 130,
+    "audio": "https://loicdhallenne.github.io/expo0626/foret%20urbaine.m4a",
+    "comment": "",
+    "date": "06/2025"
+  },
+  {
+    "id": 34,
+    "title": "Des nymphéas",
+    "size": "33X41",
+    "collection": "Abstract",
+    "price": 140,
+    "audio": "https://loicdhallenne.github.io/expo0626/giverny.m4a",
+    "comment": "",
+    "date": "10/2024"
+  },
+  {
+    "id": 35,
+    "title": "Là où se trouve mon coeur",
+    "size": "92X73",
+    "collection": "Sky Serie",
+    "price": 250,
+    "audio": "https://loicdhallenne.github.io/expo0626/la%20ou%20se%20trouve%20mon%20coeur.m4a",
+    "comment": "",
+    "date": "05/2025"
+  },
+  {
+    "id": 36,
+    "title": "Le Lien",
+    "size": "36X24",
+    "collection": "Abstract",
+    "price": 90,
+    "audio": "https://loicdhallenne.github.io/expo0626/le%20lien.m4a",
+    "comment": "",
+    "date": "12/2024"
+  },
+  {
+    "id": 37,
+    "title": "Les coquelicots",
+    "size": "30X30",
+    "collection": "Jungle",
+    "price": 55,
+    "audio": "https://loicdhallenne.github.io/expo0626/les%20coquelicots.m4a",
+    "comment": "New",
+    "date": "06/2025"
+  },
+  {
+    "id": 38,
+    "title": "Mare Infucatu",
+    "size": "180X120",
+    "collection": "Sky Serie",
+    "price": 400,
+    "audio": "https://loicdhallenne.github.io/expo0626/mare%20infucatu.m4a",
+    "comment": "",
+    "date": "06/2025"
+  },
+  {
+    "id": 39,
+    "title": "Unravel",
+    "size": "2X55X7",
+    "collection": "Sculpture",
+    "price": 50,
+    "audio": "https://loicdhallenne.github.io/expo0626/unravel.m4a",
+    "comment": "",
+    "date": "11/2024"
+  },
+  {
+    "id": 40,
+    "title": "Ara Amazonia",
+    "size": "44X53",
+    "collection": "Nature",
+    "price": 156,
+    "audio": "https://loicdhallenne.github.io/expo0626/Ara%20amazonia.m4a",
+    "comment": "",
+    "date": "04/2024"
+  },
+  {
+    "id": 41,
+    "title": "Architecture",
+    "size": "50X50",
+    "collection": "Essential",
+    "price": 0,
+    "audio": "https://loicdhallenne.github.io/expo0626/Architecture.m4a",
+    "comment": "Collection privée",
+    "date": ""
+  },
+  {
+    "id": 42,
+    "title": "En cheminant",
+    "size": "40X60",
+    "collection": "Photo",
+    "price": 110,
+    "audio": "https://loicdhallenne.github.io/expo0626/En-cheminant.m4a",
+    "comment": "New",
+    "date": "10/2025"
+  },
+  {
+    "id": 43,
+    "title": "Instant Figé",
+    "size": "40X60",
+    "collection": "Photo",
+    "price": 110,
+    "audio": "https://loicdhallenne.github.io/expo0626/Instant%20fige.m4a",
+    "comment": "New",
+    "date": "10/2025"
+  },
+  {
+    "id": 44,
+    "title": "Infinite",
+    "size": "60X40",
+    "collection": "Photo",
+    "price": 110,
+    "audio": "https://loicdhallenne.github.io/expo0626/infinite.m4a",
+    "comment": "New",
+    "date": "05/2019"
+  },
+  {
+    "id": 45,
+    "title": "Club Café",
+    "size": "52X30",
+    "collection": "Essential",
+    "price": 50,
+    "audio": "https://loicdhallenne.github.io/expo0626/Club-cafe.m4a",
+    "comment": "New",
+    "date": "06/2026"
+  },
+  {
+    "id": 46,
+    "title": "Toundra",
+    "size": "60X20",
+    "collection": "Abstract",
+    "price": 110,
+    "audio": "https://loicdhallenne.github.io/expo0626/toundra.m4a",
+    "comment": "",
+    "date": "04/2025"
+  },
+  {
+    "id": 47,
+    "title": "Andromède",
+    "size": "90X90",
+    "collection": "Abstract",
+    "price": 150,
+    "audio": "https://loicdhallenne.github.io/expo0626/Andromede.m4a",
+    "comment": "New",
+    "date": "06/2026"
+  },
+  {
+    "id": 48,
+    "title": "Laponie",
+    "size": "50X25",
+    "collection": "Abstract",
+    "price": 70,
+    "audio": "https://loicdhallenne.github.io/expo0626/laponie.m4a",
+    "comment": "",
+    "date": "11/2024"
+  },
+  {
+    "id": 49,
+    "title": "Mouvements Lents / Gymnopédies",
+    "size": "73X39",
+    "collection": "Sky Serie",
+    "price": 189,
+    "audio": "https://loicdhallenne.github.io/expo0626/mouvements-lents.m4a",
+    "comment": "New",
+    "date": "10/2024"
+  },
+  {
+    "id": 50,
+    "title": "Frankfort, from the bank",
+    "size": "50X70",
+    "collection": "Night",
+    "price": 126,
+    "audio": "https://loicdhallenne.github.io/expo0626/fankfort.m4a",
+    "comment": "New",
+    "date": "06/2026"
+  }
+]
